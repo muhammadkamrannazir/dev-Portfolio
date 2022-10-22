@@ -16,7 +16,7 @@ Designed live portfolio using Flutter 2.0. Available for **Android** and **Web**
 Before these steps make sure you have `flutter 2.0`
 
 ```
-git clone https://github.com/mhmzdev/DevFolio
+git clone https://github.com/muhammadkamrannazir/DevFolio
 cd DevFolio
 flutter packages get
 flutter config --enable-web
@@ -39,14 +39,11 @@ flutter run -d chrome
 
 ## 🧑 Author
 
-#### Muhammad Hamza
-[![LinkedIn Link](https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
-)](https://www.linkedin.com/in/mhmzdev)
+#### Muhammad Kamran
 
 You can also follow my GitHub Profile to stay updated about my latest projects:
 
-[![GitHub Follow](https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/m-hamzashakeel)
 
 If you liked the repo then kindly support it by giving it a star ⭐!
 
-Copyright (c) 2020 MUHAMMAD HAMZA
+Copyright (c) 2020 MUHAMMAD Kamran
