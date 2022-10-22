@@ -25,11 +25,11 @@ flutter run -d chrome
 
 ## 🔗 Useful links
 
-🌐 Web App: http://mhmzdev.github.io/folio
+🌐 Web App: 
 
-📱 Android App: https://drive.google.com/drive/folders/1qEjMnDPrWOHVOKnKVM3Vbl0RpDE2C9L9?usp=sharing
+📱 Android App: 
 
-📙 Article: https://mhamzadev.medium.com/folio-responsive-portfolio-using-flutter-2-0-86ae3e6cce4f
+📙 Article: 
 
 ## 👀 Looks
 
